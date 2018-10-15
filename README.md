@@ -1,4 +1,4 @@
-##Building
+## Building
 
 ~~~
 mkdir build
@@ -7,21 +7,21 @@ cmake ..
 make
 ~~~
 
-##Running
+## Running
 
 ~~~
 cd build && test/testPromises
 ~~~
 
-##Doc
-###make_promise
-###then
-###catcher
-###ever
-###startExecution
-###Promise object property
-####constructors
-####isInProgress
-####isFinished
-####isRejected
-####isResolved
+## Doc
+### make_promise
+### then
+### catcher
+### ever
+### startExecution
+### Promise object property
+#### constructors
+#### isInProgress
+#### isFinished
+#### isRejected
+#### isResolved
